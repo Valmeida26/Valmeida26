@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou o Vinicius, meu nick name  é Valmeida26
 - 👀 Eu estou interessado em aprender mais sobre Java, Kotlin, Python.
-- 🌱 Eu estou aprendendo sobre Segurança da Informação, Java, Kotlin e Python.
+- 🌱 Eu estou aprendendo sobre Cyber Security, Java, Kotlin e Python.
 - 💞️ Eu estou disposto à colaborar com repositorios Java, Kotlin e Python.
 - 📫 Você pode me encontrar pelo telefone (11) 98166-9950 ou e-mail vinicius.devalmeida@gmail.com  (Obrigado)
 <!---
